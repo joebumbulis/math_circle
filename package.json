@@ -1,0 +1,14 @@
+{
+  "name": "math_cir_ci",
+  "version": "1.0.0",
+  "description": "https://www.youtube.com/watch?v=l76BPdbt0gc",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^26.6.3"
+  }
+}
